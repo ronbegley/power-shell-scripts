@@ -1,4 +1,4 @@
-# power-shell-scripts
+# An eclectic collection of useful powershell scripts
 
 Create-Windows-Bootable-USB-From-ISO.ps1 Sample usage:  
 
